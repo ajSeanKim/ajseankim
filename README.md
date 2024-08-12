@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajdjajdfktnl)](https://solved.ac/ajdjajdfktnl/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajseankim)](https://solved.ac/ajseankim/)
 
 - 👋 Hi, I’m @ajseonkim
 - 👀 I’m interested in ...
